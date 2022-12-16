@@ -4,7 +4,7 @@
 > 
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bac1d108-9af4-43da-a957-e7d338efe19f/icons8-pin-100.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bac1d108-9af4-43da-a957-e7d338efe19f/icons8-pin-100.png" width="40px" /> Es importante que valides el correcto funcionamiento de tu aplicación.
+Es importante que valides el correcto funcionamiento de tu aplicación.
 Debes de cumplir con los requerimientos indicados, las entregas y ten en cuenta las consideraciones listadas.
 Así mismo aprovecha los recursos recomendados.
 
@@ -44,7 +44,7 @@ Así mismo aprovecha los recursos recomendados.
 
 #BASES PARA REFORZAR
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abeb1a18-ebef-424a-a681-4b7ab1e27dd0/icons8-habilidad-de-brainstorm-100.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abeb1a18-ebef-424a-a681-4b7ab1e27dd0/icons8-habilidad-de-brainstorm-100.png" width="40px" /> **Bases a reforzar:**
+ **Bases a reforzar:**
 
 1. Express
 2. Json Web Token
@@ -55,7 +55,7 @@ Así mismo aprovecha los recursos recomendados.
 #ENTREGAS
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abeb1a18-ebef-424a-a681-4b7ab1e27dd0/icons8-habilidad-de-brainstorm-100.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abeb1a18-ebef-424a-a681-4b7ab1e27dd0/icons8-habilidad-de-brainstorm-100.png" width="40px" /> **Entregas:**
+**Entregas:**
 
 - [ ]  Proyecto en GitHub
 - [ ]  El codigo debe ser leíble, recuerden que el codigo lo tiene que leer mas gente (miembros de su squad y el profesor)
